@@ -21,8 +21,31 @@
 [![Vite Badge](https://img.shields.io/badge/vite-A14AED?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 <!--  [![Redux Badge](https://img.shields.io/badge/Redux-7447B2?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone) -->
+
+```jsx
+import React from "react"
+import ReactDOM from "react-dom/client"
+
+type Props = {
+  fullName: string
+}
+
+const Greeting = ({ fullName }: Props) => {
+  return (
+    <p>
+      Hello everyone, I am {fullName}, Jr. Software Engineer from Dhaka,
+      Bangladesh.
+    </p>
+  )
+}
+
+ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
+  <React.StrictMode>
+    <Greeting fullName="Nafeez Mahdi" />
+  </React.StrictMode>
+)
+```
 
 :gift:  Extra
 ![](https://i.imgur.com/waxVImv.png)
