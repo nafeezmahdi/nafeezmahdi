@@ -58,6 +58,14 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 
+# :chart_with_upwards_trend: Current Stats
+![](https://i.imgur.com/waxVImv.png)
+
+<p align="center">
+  <img width="390" height="150" src="https://streak-stats.demolab.com?user=nafeezmahdi&theme=dark"/>
+  <img width="390" height="150" src="https://github-readme-stats.vercel.app/api?username=nafeezmahdi&show_icons=true&theme=dark&rank_icon=github"/>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafeezmahdi/nafeezmahdi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafeezmahdi/nafeezmahdi/output/github-snake.svg" />
