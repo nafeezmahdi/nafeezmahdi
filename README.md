@@ -66,6 +66,12 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <img width="390" height="150" src="https://github-readme-stats.vercel.app/api?username=nafeezmahdi&show_icons=true&theme=dark&rank_icon=github"/>
 </p>
 
+# :fire: Summary of profile
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafeezmahdi&theme=dark">
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafeezmahdi/nafeezmahdi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafeezmahdi/nafeezmahdi/output/github-snake.svg" />
