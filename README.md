@@ -58,6 +58,23 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 
+# :books: Recent projects
+
+### :newspaper: Daily pulse newspaper website
+
+-   **Description** : A dynamic newspaper portal where publications can publish their news and users can get all them in one platform. And admin dashboard can manage users and publications.
+<!--  
+-   **Admin credentials**, <br />
+    Email :  <br />
+    Password : 
+-->
+-   **Technologies used** :
+
+    -   **Frontend** : React.js, Tailwind CSS.
+
+-   **[Client side]() - [Server side]() - [live demo]()**
+
+
 # :chart_with_upwards_trend: Current Stats
 ![](https://i.imgur.com/waxVImv.png)
 
