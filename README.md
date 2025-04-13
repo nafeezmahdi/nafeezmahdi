@@ -1,15 +1,13 @@
 
 # :coffee: Connect with me!
-![](https://i.imgur.com/waxVImv.png)
-
 <!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NafeezMahdi09/) -->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nafeezmahdi09) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafeezmahdi1130@gmail.com)
 <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) -->
+![](https://i.imgur.com/waxVImv.png)  
 
-# :basketball:  Currently I am working with
-![](https://i.imgur.com/waxVImv.png)
 
+# :basketball: Currently I am working with
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Mir-Labib-Hossain/static-projects---snippets---problem-solving/tree/main/js/snippets) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/Mir-Labib-Hossain/E-Commerce-with-cart) 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
@@ -22,6 +20,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!--  [![Redux Badge](https://img.shields.io/badge/Redux-7447B2?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone) -->
+![](https://i.imgur.com/waxVImv.png)  
+
 
 ```jsx
 import React from "react"
@@ -48,8 +48,6 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 ```
 
 # :gift:  Extra
-![](https://i.imgur.com/waxVImv.png)
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -138,7 +136,6 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 
 
 # :chart_with_upwards_trend: Current Stats
-![](https://i.imgur.com/waxVImv.png)
 
 <p align="center">
   <img width="390" height="150" src="https://streak-stats.demolab.com?user=nafeezmahdi&theme=dark"/>
