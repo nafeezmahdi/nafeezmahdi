@@ -1,5 +1,5 @@
 
-# :coffee: Connect with me!
+# :coffee:Connect with me!
 <!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NafeezMahdi09/) -->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nafeezmahdi09) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafeezmahdi1130@gmail.com)
@@ -7,7 +7,7 @@
 ![](https://i.imgur.com/waxVImv.png)  
 
 
-# :basketball: Currently I am working with
+# :basketball:Currently I am working with
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Mir-Labib-Hossain/static-projects---snippets---problem-solving/tree/main/js/snippets) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/Mir-Labib-Hossain/E-Commerce-with-cart) 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
@@ -47,7 +47,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 )
 ```
 
-# :gift:  Extra
+# :gift: Extra
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
