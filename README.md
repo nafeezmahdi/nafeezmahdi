@@ -59,20 +59,82 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 
 # :books: Recent projects
-
+<!-- 
 ### :newspaper: Daily pulse newspaper website
 
 -   **Description** : A dynamic newspaper portal where publications can publish their news and users can get all them in one platform. And admin dashboard can manage users and publications.
-<!--  
+ 
 -   **Admin credentials**, <br />
     Email :  <br />
     Password : 
--->
+
 -   **Technologies used** :
 
     -   **Frontend** : React.js, Tailwind CSS.
 
 -   **[Client side]() - [Server side]() - [live demo]()**
+-->
+
+### 🏀 Hoops Website
+
+-   **Description** : A modern and responsive basketball-themed web app providing smooth performance and mobile-friendly experience.
+  
+-   **Technologies used** :
+
+    -   **Frontend** : React.js, Tailwind CSS.
+
+-   **[Client side](https://github.com/nafeezmahdi/hoops) - [Server side]() - [live demo](https://hoops-react.vercel.app/)**.
+
+---
+
+### 🎨 Kinetiwall Website
+
+-   **Description** : A creative UI website optimized for performance and SEO, showcasing design ideas with a smooth user experience.
+
+-   **Technologies used** :
+
+    -   **Frontend** : Next.js, Tailwind CSS.
+
+-   **[Client side](https://github.com/nafeezmahdi/kinetiwall) - [Server side]() - [live demo](https://kinetiwall-now.vercel.app/)**.
+
+---
+
+### 💻 SaasTech Website
+
+-   **Description** : High-performance SaaS company landing page featuring animated UI using Framer Motion.
+
+-   **Technologies used** :
+
+    -   **Frontend** : Next.js, Tailwind CSS, Framer Motion.
+
+-   **[Client side](https://github.com/nafeezmahdi/saastech) - [Server side]() - [live demo](https://saastech-noww.vercel.app/)**.
+
+---
+
+### 📚 Book Browser App (Android)
+
+-   **Description** : An Android app for browsing and selling books, built with Firebase for backend and authentication.
+
+-   **Technologies used** :
+
+    -   **Platform** : Android Studio  
+    -   **Languages** : Java, XML  
+    -   **Backend** : Firebase
+
+-   **[Client side](https://github.com/nafeezmahdi/book-browser-app) - [Server side]() - [live demo]()**.
+
+---
+
+### 🍽️ Restaurant Management System (Desktop App)
+
+-   **Description** : A desktop-based application to manage restaurant operations, including order, menu, and table handling.
+
+-   **Technologies used** :
+
+    -   **Frontend** : Java (NetBeans)
+    -   **Database** : MSSQL
+
+-   **[Client side](https://github.com/nafeezmahdi/restaurant-management-system) - [Server side]() - [live demo]()**.
 
 
 # :chart_with_upwards_trend: Current Stats
