@@ -83,7 +83,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 
     -   **Frontend** : React.js, Tailwind CSS.
 
--   **[Client side](https://github.com/nafeezmahdi/hoops) - [Server side]() - [live demo](https://hoops-react.vercel.app/)**.
+-   **[Live demo](https://hoops-react.vercel.app/)**
 
 ---
 
@@ -95,7 +95,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 
     -   **Frontend** : Next.js, Tailwind CSS.
 
--   **[Client side](https://github.com/nafeezmahdi/kinetiwall) - [Server side]() - [live demo](https://kinetiwall-now.vercel.app/)**.
+-   **[Live demo](https://kinetiwall-now.vercel.app/)**
 
 ---
 
@@ -107,7 +107,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 
     -   **Frontend** : Next.js, Tailwind CSS, Framer Motion.
 
--   **[Client side](https://github.com/nafeezmahdi/saastech) - [Server side]() - [live demo](https://saastech-noww.vercel.app/)**.
+-   **[Live demo](https://saastech-noww.vercel.app/)**
 
 ---
 
@@ -121,7 +121,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
     -   **Languages** : Java, XML  
     -   **Backend** : Firebase
 
--   **[Client side](https://github.com/nafeezmahdi/book-browser-app) - [Server side]() - [live demo]()**.
+-   **[Client side](https://github.com/nafeezmahdi/book-browser-app)**
 
 ---
 
@@ -134,7 +134,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
     -   **Frontend** : Java (NetBeans)
     -   **Database** : MSSQL
 
--   **[Client side](https://github.com/nafeezmahdi/restaurant-management-system) - [Server side]() - [live demo]()**.
+-   **[Client side](https://github.com/nafeezmahdi/restaurant-management-system)**
 
 
 # :chart_with_upwards_trend: Current Stats
