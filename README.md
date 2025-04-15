@@ -153,3 +153,6 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafeezmahdi/nafeezmahdi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nafeezmahdi/nafeezmahdi/output/github-snake.svg" />
 </picture>
+
+---
+<p align="center"><img src="https://komarev.com/ghpvc/?username=nafeezmahdi&label=Profile%20views&color=0e75b6&style=flat" alt="nafeezmahdi" /></p>
