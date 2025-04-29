@@ -34,7 +34,7 @@ type Props = {
 const Greeting = ({ fullName }: Props) => {
   return (
     <p>
-      Hello everyone, I am {fullName}, Jr. Software Engineer from Dhaka,
+      Hello everyone, I am {fullName}, Frontend Developer from Dhaka,
       Bangladesh.
     </p>
   )
