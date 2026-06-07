@@ -139,8 +139,10 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 
 <p align="center">
   <img width="390" height="150" src="https://streak-stats.demolab.com?user=nafeezmahdi&theme=dark"/>
-  <img width="390" height="150" src="https://github-readme-stats.vercel.app/api?username=nafeezmahdi&show_icons=true&theme=dark&rank_icon=github"/>
+  <!-- <img width="390" height="150" src="https://github-readme-stats.vercel.app/api?username=nafeezmahdi&show_icons=true&theme=dark&rank_icon=github"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nafeezmahdi&show_icons=true&theme=dark&rank_icon=github" alt="github-stats" />
 </p>
+
 
 # :fire: Summary of profile
 
